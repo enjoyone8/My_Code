@@ -1,9 +1,0 @@
-.idea/
-*.pyc
-pyenv/*
-*.rdb
-*.log
-zxy/*
-wealink/*
-password.py
-*.env
