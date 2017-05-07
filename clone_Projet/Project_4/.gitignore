@@ -1,0 +1,7 @@
+*.pyc
+.DS_Store
+data.cfg
+/.idea
+*.xml
+*.html
+/private
